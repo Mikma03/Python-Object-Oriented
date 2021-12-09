@@ -1,7 +1,6 @@
-# https://www.globaletraining.com/
 # import
 
-from Module14_OOPs.aa_oops_essentials.oops_basics_10 import My_Calc
+from oops_basics_10 import My_Calc
 
 calc1 = My_Calc(100, 50)
 total1 = calc1.total()
