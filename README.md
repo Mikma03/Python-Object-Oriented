@@ -1,10 +1,10 @@
 # Python-Object-Oriented
 
-1. Section_1 - Classes, methods, objects
+1. **Section_1 - Classes, methods, objects**
 
-2. Section_2 - Getters & Setters
+2. **Section_2 - Getters & Setters**
 
-3. Section_3 - Multiple inheritance, composition, polymorphism
+3. **Section_3 - Multiple inheritance, composition, polymorphism**
 
 
 Overview of the versions and history of Python programming. Understand the structure of Python code. Detailed understanding of Python variables, datatypes, built-in functions, conditional statements, and loops. Work with lists, tuples, sets, dictionaries, strings, functions, modules, and packages in Python. 
