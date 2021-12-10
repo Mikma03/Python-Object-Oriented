@@ -1,5 +1,8 @@
 # Python-Object-Oriented
 
+This repo is about OOP in Python with examples and codes. There are three section sorted by the level of difficulty.
+
+
 1. **Section_1 - Classes, methods, objects**
 
 2. **Section_2 - Getters & Setters**
