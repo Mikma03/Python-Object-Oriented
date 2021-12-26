@@ -12,4 +12,5 @@ class Car:
     # Methods
     pass
 
-Car()
+test_1 = Car()
+test_1.model
