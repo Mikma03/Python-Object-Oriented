@@ -11,3 +11,5 @@ class Car:
         self.moon_roof = True
     # Methods
     pass
+
+Car()
