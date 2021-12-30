@@ -5,7 +5,7 @@ This repo is about OOP in Python with examples and codes. There are three sectio
 
 1. **Section_1 - Classes, methods, objects**
 
-2. **Section_2 - Getters & Setters**
+2. **Section_2 - Getters & Setters and more**
 
 3. **Section_3 - Multiple inheritance, composition, polymorphism**
 
